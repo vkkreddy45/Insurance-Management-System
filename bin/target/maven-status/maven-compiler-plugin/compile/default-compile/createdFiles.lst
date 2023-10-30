@@ -1,0 +1,17 @@
+com/insurance/repository/PolicyRepository.class
+com/insurance/controller/PolicyController.class
+com/insurance/service/ClientsService.class
+com/insurance/entity/ClientPolicy.class
+com/insurance/App.class
+com/insurance/controller/ClientPolicyController.class
+com/insurance/service/PolicyService.class
+com/insurance/repository/ClaimRespository.class
+com/insurance/repository/ClientPolicyRepository.class
+com/insurance/entity/Policy.class
+com/insurance/controller/ClaimController.class
+com/insurance/entity/Clients.class
+com/insurance/controller/ClientsController.class
+com/insurance/service/ClaimService.class
+com/insurance/repository/ClientsRepository.class
+com/insurance/entity/Claim.class
+com/insurance/service/ClientPolicyService.class
